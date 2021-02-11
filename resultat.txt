@@ -1,0 +1,25 @@
+total 120
+-rw-r--r-- 1 ossama ossama  3413 févr. 11 02:13 builtin.c
+-rw-r--r-- 1 ossama ossama   251 févr. 10 22:40 builtin.h
+-rw-rw-r-- 1 ossama ossama  4120 févr. 11 02:38 builtin.o
+-rw-r--r-- 1 ossama ossama  6116 févr. 11 03:40 cmdline.c
+-rw-r--r-- 1 ossama ossama   879 févr.  9 18:53 cmdline.h
+-rw-rw-r-- 1 ossama ossama  4928 févr. 11 03:40 cmdline.o
+-rw-r--r-- 1 ossama ossama  2328 févr. 11 02:43 main.c
+-rw-rw-r-- 1 ossama ossama  4104 févr. 11 02:43 main.o
+-rw-r--r-- 1 ossama ossama   563 déc.   9 18:57 Makefile
+-rwxrwxr-x 1 ossama ossama 23000 févr. 11 03:40 minishell
+-rw-rw-r-- 1 ossama ossama     0 févr. 11 01:47 oss
+-rw-r--r-- 1 ossama ossama  4353 févr.  9 18:53 parser.c
+-rw-r--r-- 1 ossama ossama  1540 févr.  9 18:53 parser.h
+-rw-rw-r-- 1 ossama ossama  3752 févr.  9 19:54 parser.o
+-rw-r--r-- 1 ossama ossama  3063 févr. 11 03:40 processus.c
+-rw-r--r-- 1 ossama ossama  1173 févr.  9 18:54 processus.h
+-rw-rw-r-- 1 ossama ossama  3960 févr. 11 03:40 processus.o
+-rw-rw-r-- 1 ossama ossama     0 févr. 11 03:43 resultat.txt
+-rw-rw-r-- 1 ossama ossama     6 févr. 11 02:34 test
+-rw-r--r-- 1 ossama ossama   533 févr.  9 18:53 utils.c
+-rw-r--r-- 1 ossama ossama   281 févr.  8 23:24 utils.h
+-rw-rw-r-- 1 ossama ossama  1448 févr.  9 19:54 utils.o
+-rw-rw-r-- 1 ossama ossama     0 févr. 11 01:52 xx
+-rw-rw-r-- 1 ossama ossama     0 févr. 11 01:41 yasso
